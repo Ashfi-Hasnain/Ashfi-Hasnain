@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashfi-Hasnain
 - 👀 I’m interested in developing algorithms, problem solving, and programming very basic programs.
 - 🌱 I’m currently learning programming on Python and learning how to use Linux.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on research.
 - 📫 How to reach me ... Email: Ashfihasnain39@gmail.com OR SMS/WhatsApp: +1(807)356-4192
                           Social media: Facebook - "Ashfi Hasnain", Discord "AshfiAbrar"
 - 😄 LinkedIn: ... https://www.linkedin.com/in/ashfi-hasnain-9a5542327/
